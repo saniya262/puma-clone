@@ -1,0 +1,55 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+
+
+}
+
+.nav-div1{
+    background-color: #ae946d;
+    padding: 1px;
+   
+}
+.navbar{
+    background-color: black;
+    
+}
+
+
+form input[type="search"]:hover {
+    border-color: rgb(89, 120, 153); 
+}
+
+input::-ms-input-placeholder {
+    color: white;
+}
+
+.banner-text{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
+
+.banner-text h1{
+    color: white;
+}
+.banner-text h3{
+    color: white;
+}
+.banner-text h5{
+    color: white;
+}
+
+.banner-right-text h1{
+    position: absolute;
+    top: 40%;
+    left: 78%;
+    font-family: "Monoton", sans-serif;
+    font-weight: 1000;
+    font-size: 100px;
+    color: white;
+    
+}
+
